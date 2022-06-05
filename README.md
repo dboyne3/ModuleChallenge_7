@@ -24,5 +24,12 @@ Built a financial database and web application using SQL, Python, and Violà to 
 - ```import sqlalchemy```
 
 ---
+## Usage
+ Using Violà we created a web application by converting a Jupyter Notebook.
+ Screenshots of web page:
+ !(Images/VoilaScreenshot1.png)
+ !(Images/VoilaScreenshot2.png)
+
+---
 ### Contributors
 Daniel Boyne
