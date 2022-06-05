@@ -16,12 +16,12 @@ Built a financial database and web application using SQL, Python, and Violà to 
 
  ---
  ## Installation Guide
-``` pip install sqlalchemy```
-``` conda install -c conda-forge voila```
-```import numpy as np```
-```import pandas as pd```
-```import hvplot.pandas```
-```import sqlalchemy```
+- ``` pip install sqlalchemy```
+- ``` conda install -c conda-forge voila```
+- ```import numpy as np```
+- ```import pandas as pd```
+- ```import hvplot.pandas```
+- ```import sqlalchemy```
 
 ---
 ### Contributors
