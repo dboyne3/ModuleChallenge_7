@@ -27,8 +27,8 @@ Built a financial database and web application using SQL, Python, and Violà to 
 ## Usage
  Using Violà we created a web application by converting a Jupyter Notebook.
  Screenshots of web page:
- ![Screenshot](Images/VoilaScreenshot1.png)
- ![Screenshot](Images/VoilaScreenshot2.png)
+ ![Example](./images/VoilaScreenshot1.png)
+ ![Example](./images/VoilaScreenshot2.png)
 
 ---
 ### Contributors
